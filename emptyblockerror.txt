@@ -1,0 +1,123 @@
+finding all the empty block's
+
+
+
+1. https://fc-site-eight.vercel.app/about
+
+The group
+Group companies and plants
+
+(Some group company/plant website links are missing)
+
+
+2. https://fc-site-eight.vercel.app/about/awards
+
+some of the certificate are not available
+
+3. https://fc-site-eight.vercel.app/services
+
+In this section Training, field onsite engineering data is missing
+
+4. https://fc-site-eight.vercel.app/industries/railways
+
+Industry videos are missing
+
+5. https://fc-site-eight.vercel.app/industries/oil-and-gas
+
+https://fc-site-eight.vercel.app/industries/power-and-energy
+
+video is missing from all the Industries
+
+
+6. https://fc-site-eight.vercel.app/quality/certifications
+
+fitting & connectors 
+
+Download certificate missing from Cyclic Endurance (Impulse) Test With Vibration
+As per ISO 19879, Salt Mist Test IEC 60068-2-52, Seismic & Non-Seismic Vibration Testing
+To nuclear standards
+
+
+7. https://fc-site-eight.vercel.app/services/design-engineering/
+
+What this covers
+
+has missing data
+
+
+8. https://fc-site-eight.vercel.app/services/assembly
+
+what this covers the tube assemblies, pre-piped brake assemblies(Rail)
+
+9. https://fc-site-eight.vercel.app/services/installation
+
+what this covers On-site fitment of sub-assemblies
+
+
+10. https://fc-site-eight.vercel.app/services/testing
+
+the link missing of Leak & Vacuum Testing, Impulse & Fatigue Testing, Corrosion Testing, Material & Mechanical Testing
+
+11.https://fc-site-eight.vercel.app/services/testing/product-performance-validation
+
+What we run
+
+(NABL accredited scope)missing on some pages
+
+12. https://fc-site-eight.vercel.app/services/testing/metallurgical-testing
+
+What we run
+NABL accredited scope3/8
+
+
+13. https://fc-site-eight.vercel.app/terms
+
+Draft — pending legal review
+
+
+14. https://fc-site-eight.vercel.app/resources/standards/iso-8434-1
+
+https://fc-site-eight.vercel.app/resources/standards/din-3015
+
+https://fc-site-eight.vercel.app/resources/standards/din-3570
+
+https://fc-site-eight.vercel.app/resources/standards/din-1592-1593
+
+https://fc-site-eight.vercel.app/resources/standards/din-1596-1597
+
+https://fc-site-eight.vercel.app/resources/standards/din-3567
+
+https://fc-site-eight.vercel.app/resources/standards/iso-6162
+
+https://fc-site-eight.vercel.app/resources/standards/iso-6164
+
+https://fc-site-eight.vercel.app/resources/standards/cetop-rp-63h
+
+https://fc-site-eight.vercel.app/resources/standards/ped-2014-68-eu
+
+https://fc-site-eight.vercel.app/resources/standards/abs-design-assessment
+
+https://fc-site-eight.vercel.app/resources/standards/asme-b16-34
+
+https://fc-site-eight.vercel.app/resources/standards/din-en-15085-2
+
+https://fc-site-eight.vercel.app/resources/standards/iec-60068-2-52
+
+https://fc-site-eight.vercel.app/resources/standards/astm-g93
+
+https://fc-site-eight.vercel.app/resources/standards#accredited-clauses(ASTM A262
+1 clause
+
+Intergranular attack in austenitic stainless steels, ASTM B117
+1 clause
+
+Salt spray (fog) apparatus)
+
+https://fc-site-eight.vercel.app/resources/standards
+
+ASME Section V
+
+Non-destructive examination
+
+data missing
+
